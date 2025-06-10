@@ -1,4 +1,4 @@
-```markdown
+
 # 📈 Tesla Stock Analytics Dashboard
 
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-orange) 
