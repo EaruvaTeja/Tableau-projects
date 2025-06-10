@@ -72,10 +72,8 @@ project-root/
 ## 📜 License
 MIT License - See [LICENSE](LICENSE) for details
 
----
 
 <div align="center">
   Made with ❤️ using Tableau | Data updated: June 2023
 </div>
-```
 
